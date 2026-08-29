@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Lucky Singh<br><br>🎓  B.Tech CSE (AI/ML) Student<br>🤖 Aspiring  AI/ML Engineer | 💻 Learning by Building | 🚀 Future Tech Entrepreneur<br><br>I'm a passionate Computer Science student specializing in **Artificial Intelligence and Machine Learning**. I'm currently building my foundation in programming, problem-solving, data structures, and machine learning while working on practical projects.<br><br>### 🛠️ Currently Learning<br><br>* 🐍 Python<br>* 💻 C / C++<br>* 📊 Data Structures & Algorithms<br>* 🤖 Machine Learning<br>* 🧠 Artificial Intelligence<br>* 🌐 Backend Development & APIs<br>* 🗄️ SQL & Databases<br>* 🐙 Git & GitHub<br><br>### 🚀 My Goals<br><br>* Build strong **coding & problem-solving skills**<br>* Develop real-world **AI/ML projects**<br>* Contribute to **open-source projects**<br>* Get my first **AI/ML internship**<br>* Eventually build my own **AI-powered startup**<br><br>### 📌 What You'll Find Here<br><br>This GitHub contains my **learning journey, practice programs, projects, experiments, and AI/ML work** as I progress from beginner to professional.<br><br>> **Learning → Building → Improving → Becoming an AI/ML Engineer 🚀**<br><br>⭐ Feel free to explore my repositories and follow my journey!<br>
 
-<!--
-**rajputluckysingh123-ctrl/rajputluckysingh123-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucky-singh-49484437b/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Lucky Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajputluckysingh123@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rajputluckysingh123-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rajputluckysingh123-ctrl&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajputluckysingh123-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=rajputluckysingh123-ctrl&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
